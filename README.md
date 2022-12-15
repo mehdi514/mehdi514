@@ -1,4 +1,4 @@
-👋 I'm a Frontend developer working with JS libraries React.js/React-Native.
+👋 I'm a Frontend developer working with JS libraries React.js/React-Native. I have 5+ years experience, worked with multiple international companies.
 
 You can contact me here:
 
